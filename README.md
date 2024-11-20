@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Full Time Developer at Deloitte USI<br>- 📚 I'm currently learning full stack web dev<br>- ⚡ In my free time I practice and make projects</p>
+<p align="left">- 🔭 I’m working as Full Time Developer at Deloitte<br>- 📚 I'm currently learning full stack web dev<br>- ⚡ In my free time I practice and make projects</p>
 
 ###
 
